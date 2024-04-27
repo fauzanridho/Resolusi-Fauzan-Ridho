@@ -5,6 +5,11 @@ FAUZAN RESOLUSI
     3. Java Script
     4. Git
 
+- Belajar UI/UX
+    1. Membuat UI Cofee shop
+
 - Belajar Front End Dev
     1. Node Js
     2. React
+
+
