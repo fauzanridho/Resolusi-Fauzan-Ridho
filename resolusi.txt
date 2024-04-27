@@ -1,0 +1,10 @@
+FAUZAN RESOLUSI
+- Belajar dasar pemograman web
+    1. HTML
+    2. Css
+    3. Java Script
+    4. Git
+
+- Belajar Front End Dev
+    1. Node Js
+    2. React
